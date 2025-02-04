@@ -3,7 +3,7 @@ import java.io.*;
 public class ConvertByteStreamToCharStream {
     public static void main(String[] args) {
         // Replace with the path to your file
-        String filePath = "example.txt";
+        String filePath = "C:/Gautam/Week-3/Day_4/FileReaderAndBuffferReader/newFile.txt/";
 
         try (
                 //  Create a FileInputStream to read binary data from the file
