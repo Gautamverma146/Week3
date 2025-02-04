@@ -15,7 +15,7 @@ public class ConcatenateStringUsingStringBuffer {
 
         // Iterate through each string in the array and append to StringBuffer
         for (String word : words) {
-            stringBuffer.append(word); 
+            stringBuffer.append(word);
         }
 
         // Return the concatenated result
