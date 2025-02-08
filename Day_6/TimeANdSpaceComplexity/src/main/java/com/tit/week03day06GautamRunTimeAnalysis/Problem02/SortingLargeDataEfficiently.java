@@ -1,4 +1,4 @@
-package Problem02;
+package com.tit.week03day06GautamRunTimeAnalysis.Problem02;
 //importing Arrays & Random
 import java.util.Arrays;
 import java.util.Random;
@@ -102,7 +102,7 @@ public class SortingLargeDataEfficiently {
         }
 
     }
-//method to sort using Quick sort algorithm
+
     public static void quickSort(int[] arr, int low, int high) {
         if (low < high) {
             int pi = partition(arr, low, high);

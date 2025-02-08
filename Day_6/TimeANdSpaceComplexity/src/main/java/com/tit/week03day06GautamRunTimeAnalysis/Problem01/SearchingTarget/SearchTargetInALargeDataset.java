@@ -1,4 +1,4 @@
-package Problem01;
+package com.tit.week03day06GautamRunTimeAnalysis.Problem01.SearchingTarget;
 
 public class SearchTargetInALargeDataset {
     public static void main(String[] args) {
